@@ -1,0 +1,26 @@
+body {
+  font-family: Helvetica, sans-serif;
+  margin: 0;
+}
+
+nav {
+  background-color: #f62;
+  color: white;
+  font-family: serif;
+  height: 2em;
+  padding: 8px;
+}
+
+nav h1 {
+  float: left;
+  margin: auto 0;
+}
+
+#subtitle {
+  color: black;
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  margin: auto 0;
+  padding: 8px;
+  text-align: center;
+}
